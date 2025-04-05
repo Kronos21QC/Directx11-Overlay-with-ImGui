@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (GeForce Hook Overlay with ImGui.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Main.cpp
+  Generating Code...
+  GeForce Hook Overlay with ImGui.vcxproj -> C:\Users\Gabyy\Desktop\Hacking\Directx11 Overlay with ImGui\GeForce Hook Overlay with ImGui\x64\Debug\Directx11 Overlay with ImGui.exe
